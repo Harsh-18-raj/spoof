@@ -4,10 +4,10 @@
 This project detects whether an audio file is spoofed or bonafide using fine-tuned model based on CNN.
 
 ## Team Members
+- Harsh Raj (22bds027)
 - Yashraj Kadam (22bds066)
 - Ayush Singh (22bds012)
 - Nachiket Apte (22bds041)
-- Harsh Raj (22bds027)
 
 ## Features
 - Upload FLAC files.
